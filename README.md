@@ -1,27 +1,27 @@
-# NubV2
+# Angular 11 & TailwindCSS Starter
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 11.0.1.
+![](./src/assets/Screen%20Shot%202020-12-29%20at%2012.25.07%20AM.png)
 
-## Development server
+This repo is a starter template, it has TailwindCSS preconfigured with Angular 11.
 
-Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The app will automatically reload if you change any of the source files.
+# Installation
 
-## Code scaffolding
+Considering that you already have Angular Cli installed.
 
-Run `ng generate component component-name` to generate a new component. You can also use `ng generate directive|pipe|service|class|guard|interface|enum|module`.
+```bash
+git clone https://github.com/700ad/angular-tailwindcss-starter.git
+```
 
-## Build
+```bash
+cd angular-tailwindcss-starter
+```
 
-Run `ng build` to build the project. The build artifacts will be stored in the `dist/` directory. Use the `--prod` flag for a production build.
+```bash
+yarn or npm install
+```
 
-## Running unit tests
+```bash
+ng serve
+```
 
-Run `ng test` to execute the unit tests via [Karma](https://karma-runner.github.io).
-
-## Running end-to-end tests
-
-Run `ng e2e` to execute the end-to-end tests via [Protractor](http://www.protractortest.org/).
-
-## Further help
-
-To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI Overview and Command Reference](https://angular.io/cli) page.
+Consider Liking The Repo. Thanks.
